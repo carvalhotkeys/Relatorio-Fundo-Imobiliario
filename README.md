@@ -1,2 +1,2 @@
 # Relatorio-Fundo-Imobiliario
- pesquisa e mostra cotação dos fundos imobiliarios e da um relatorio básico
+ Faz uma breve pesquisa e mostra cotação dos fundos imobiliarios escolhidos e gera um relatório básico.
