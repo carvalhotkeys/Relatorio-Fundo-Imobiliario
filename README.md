@@ -13,5 +13,5 @@
 
 ## *Resultado da análise básica no terminal*
 
-![resultadoNOterminal](https://user-images.githubusercontent.com/127784850/224825106-aa3a5dca-0b60-4262-aded-8efa32b3b755.png)
+![resultadoNOterminal](https://user-images.githubusercontent.com/127784850/224825106-aa3a5dca-0b60-4262-aded-8efa32b3b755.png)<br>
 
