@@ -48,14 +48,14 @@ for i in df['Papel']:
         print('\n', end='')
 
 
-fundo1 = df.loc[229]  #aqui coloca o numero corespondente ao fundo
-fundo2 = df.loc[360]  #aqui coloca o numero corespondente ao fundo
-fundo3 = df.loc[184]  #aqui coloca o numero corespondente ao fundo
+fundo1 = df.loc[229]  
+fundo2 = df.loc[368]  
+fundo3 = df.loc[388]  
 print()
 print('-='*17)
-print(fundo1)
-print('-='*17)
-print(fundo2)
+print(fundo1)       
+print('-='*17)      
+print(fundo2)       
 print('-='*17)
 print(fundo3)
 print('-='*17)
