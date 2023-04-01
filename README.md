@@ -1,5 +1,5 @@
 # Relatorio-Fundo-Imobiliario
- Realiza uma breve pesquisa em tempo real para exibir cotações dos fundos imobiliários selecionados e produz um relatório básico.<br>
+ Realiza uma breve pesquisa "web scraping" em tempo real para exibir cotações dos fundos imobiliários selecionados e produz um relatório básico.<br>
  
  
  Link do teste feito com o [PROJETO](https://youtu.be/yXlCyf7C5YY) <br>
